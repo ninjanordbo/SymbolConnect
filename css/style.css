@@ -26,10 +26,10 @@ html{
 /*******************************************/
 
 h1 h2 h3{
-  font-family: 'Margarine', cursive;
+  font-family: 'Comfortaa', cursive;
 }
 body{
-  font-family: 'Margarine', cursive;
+  font-family: 'Comfortaa', cursive;
 }
 
 button{
@@ -39,10 +39,11 @@ button{
   color: black;
   border: 1px solid black;
   margin: 3px;
-  font-family: 'Margarine', cursive;
+  font-family: 'Comfortaa', cursive;
+  font-weight: 700;
 }
 button:hover{
-  background-color:  #f2d544;
+  background-color:  #83bcc7;
 }
 
 
@@ -149,7 +150,8 @@ footer {
     width:auto;
     display:block;
     text-align:center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
     line-height:1.2;
 }
 #cssmenu ul
