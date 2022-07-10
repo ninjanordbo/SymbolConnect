@@ -130,9 +130,34 @@ main{
   margin-bottom: 5px;
 }
 
+.socials{
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100vw;
+  font-family: 'Comfortaa', cursive; 
+}
+.socials li{
+  color: #000;
+}
+.socialIcons{
+  display: flex;
+  justify-content: space-around;
+  margin: 10%;
+
+}
+
 footer {
-  height: 10vh;
-  background-color:  #0d969f;
+  text-align: center;
+  height: 20%;
+  background-color:  #83bcc7;
+}
+
+footer h2{
+  font-family: 'Comfortaa', cursive;
+  padding-top: 5%;
+  margin: 10%;
 }
 /******************************************
 /* ABOUT PAGE
