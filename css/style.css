@@ -139,8 +139,26 @@ footer {
 /*******************************************/
 
 .about{
+  display: flex;
+  justify-content: center;
   text-align: center;
-  width: 50vw;
+  width: 100vw;
+  height: 50vh;
+  padding:5% 20%;
+  font-family: 'Comfortaa', cursive;
+}
+
+.aboutARA p{
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+
+}
+
+.aLogo{
+    max-width: 50%;
+    display: block;
+    margin: auto;
+    padding: 1%;
 }
 /******************************************
 /* MENU
