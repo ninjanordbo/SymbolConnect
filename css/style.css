@@ -138,14 +138,14 @@ main{
   width: 100vw;
   font-family: 'Comfortaa', cursive; 
 }
-.socials li{
-  color: #000;
-}
 .socialIcons{
   display: flex;
   justify-content: space-around;
-  margin: 10%;
+  margin: 5%;
 
+}
+i{
+  color: #000;
 }
 
 footer {
