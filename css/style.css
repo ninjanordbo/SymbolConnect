@@ -41,6 +41,7 @@ button{
   margin: 3px;
   font-family: 'Comfortaa', cursive;
   font-weight: 700;
+  font-size: 1rem;
 }
 button:hover{
   background-color:  #83bcc7;
@@ -126,8 +127,9 @@ main{
 
 .cardButton{
   width: 70%;
-  margin-left: 15%;
+  margin: 0 15%;
   margin-bottom: 5px;
+  font-size: 0.8rem;
 }
 
 .socials{
