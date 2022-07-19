@@ -5,7 +5,7 @@ Some children may not be able to use speech effectively, or at all, and may need
 [![Screenshot-2022-07-11-at-12-05-28.jpg](https://i.postimg.cc/jjSqfJ7K/Screenshot-2022-07-11-at-12-05-28.jpg)](https://postimg.cc/nXNtbr2w)
 
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** 
 
 ## Technologies used for the project
 
